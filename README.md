@@ -1,7 +1,8 @@
 # Excel-Forms
 
 ## Overview:
-Various forms for common tasks not available with default functions
+Various forms for common tasks not available with default functions.
+More coming soon!
 
 ## Available Functions:
     frmReqPassword()
